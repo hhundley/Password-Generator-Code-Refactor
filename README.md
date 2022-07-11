@@ -1,1 +1,2 @@
 # Password-Generator-Code-Refactor
+# Key here will be utilizing nested functions as well as if else statements after variable is created based off a user response. Try and think through how loops can be utilized as well.
